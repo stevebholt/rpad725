@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+## RPAD 725 - Quantitative Methods of Causal Inference
+
+This course addresses the ubiquitous challenge in empirical research of navigating the path from cause to effect. Students will learn the theory and application of techniques such as: matching, difference-in-differences, instrumental variables, experiments, and regression discontinuity. However, the primary goal of this course is not to provide a ready-to-use "toolbox" of statistical methods. It is to study the more generalizable process of developing identification strategies to answer critical questions in the social sciences. Students will become critical consumers of empirical research, and in doing so, learn how to both harness the full power, and recognize the limitations, of their own research designs.

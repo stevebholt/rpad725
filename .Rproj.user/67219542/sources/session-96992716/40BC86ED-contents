@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RPAD 725 - Quantitative Methods of Causal Inference"
+  navbar:
+    left:
+      - text: "About"
+        file: index.qmd
+      - text: "Syllabus"
+        file: syllabus725.qmd
+        
+format:
+  html:
+    theme:
+      light: pulse
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
