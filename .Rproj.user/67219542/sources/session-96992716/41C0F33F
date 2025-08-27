@@ -3,11 +3,11 @@
     "path": "C:/Users/sh372234/OneDrive/sites/rpad725/syllabus725.qmd",
     "project_path": "syllabus725.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1420660266",
     "contents": "",
     "dirty": false,
     "created": 1756220364833.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "8341:4554.66650390625"
     },
     "folds": "",
-    "lastKnownWriteTime": 1756311879,
+    "lastKnownWriteTime": 1756312232,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1756311879219,
+    "last_content_update": 1756312232890,
     "read_only": false,
     "read_only_alternatives": []
 }
