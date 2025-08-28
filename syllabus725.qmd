@@ -122,7 +122,7 @@ Key:
 | 11/5 | Student Project Workshop | 📅 | 📄 Christensen, Miguel 2018 <br> Project TIER <br> Demo Project |
 | 11/12 | Differences-in-Differences I | 👨‍🏫 <br> ✅ <br> ✍ | 📖 [The Effect Chapter 18](https://theeffectbook.net/ch-DifferenceinDifference.html) <br> 📄 Kearney and Levine 2015 |
 | 11/19 | Differences-in-Differences II | 👨‍🏫 <br> ✍ | 📄 Baker, Larcker, Wang 2022 <br> 📄 Schmidheiny, Siegloch 2019 <br> 📄 Wolfers 2006 (✍) |
-| 11/26 | Thanksgiving Break | 👨‍🏫 <br> ✅ <br> 👥 |  |
+| 11/26 | Thanksgiving Break | |  |
 | 12/3 | Synthetic Control | 👨‍🏫 <br> 📅 <br> ✍ | 📖 T[he Mixtape Chapter 10](https://mixtape.scunning.com/10-synthetic_control) <br> 📄 Abadie et al. 2015 <br> 📄 Eren, Ozbeklik 2016 (✍) |
 
 ## Class Policies
